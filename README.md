@@ -1,104 +1,112 @@
-<div align="center">
+# Controlled Awareness Demonstration
 
-# PUBLIC WIFI SECURITY AWARENESS
+The project includes a controlled cybersecurity awareness scenario designed to help users visualize why an untrusted network should not automatically be considered safe.
 
-### Cybersecurity Awareness & Educational Demonstration
+The demonstration is presented for **defensive security education and user awareness**.
 
 <br>
 
-<img src="https://img.shields.io/badge/CYBERSECURITY-0969DA?style=for-the-badge&labelColor=0D1117">
+## 01 · Untrusted Network Awareness Scenario
+
+The first scenario presents the network activity and user browsing experience side-by-side.
+
+<p align="center">
+
+<img
+  src="./assets/public-wifi-awareness-scenario.png"
+  width="100%"
+  alt="Public WiFi Security Awareness Scenario"
+/>
+
+</p>
+
+### Awareness Concepts Demonstrated
+
+<div align="center">
+
+`UNTRUSTED NETWORK`
 &nbsp;
-<img src="https://img.shields.io/badge/SECURITY_AWARENESS-0969DA?style=for-the-badge&labelColor=0D1117">
+`NETWORK RISK`
 &nbsp;
-<img src="https://img.shields.io/badge/USER_EDUCATION-0969DA?style=for-the-badge&labelColor=0D1117">
+`USER AWARENESS`
 
 <br><br>
 
-**An educational cybersecurity project demonstrating the risks of untrusted public WiFi networks, deceptive web experiences, and unsafe browsing behavior.**
-
-<br><br>
-
-`Cybersecurity` • `Network Security` • `Awareness` • `Risk Prevention`
-
-<br><br>
-
-> 🛡️ **Defensive Security Awareness Project**  
-> This case study focuses on risk education, user awareness, and prevention.
+`SUSPICIOUS BROWSING`
+&nbsp;
+`DECEPTIVE EXPERIENCE`
+&nbsp;
+`RISK RECOGNITION`
 
 </div>
 
 <br>
 
----
+The purpose of this visual is to demonstrate that activity occurring within an untrusted network may not always be obvious to the user.
 
-# Project Overview
-
-The **Public WiFi Security Awareness** project was created to help users understand why connecting to an untrusted network can introduce privacy and security risks.
-
-Rather than presenting cybersecurity as a purely technical subject, the project uses a controlled educational scenario to demonstrate what an unsafe browsing experience may look like from both the network side and the user side.
-
-### Project Focus
-
-| | |
-|---|---|
-| **Project Type** | Cybersecurity Awareness |
-| **Primary Purpose** | User Education & Risk Prevention |
-| **Area** | Public WiFi / Network Security |
-| **Content Format** | Controlled Demonstration & Awareness Video |
-| **Audience** | General / Non-Technical Users |
-| **Approach** | Defensive Security Education |
+The public portfolio version intentionally removes or obscures target-specific identifiers and sensitive network information.
 
 <br>
 
 ---
 
-# The Awareness Scenario
+## 02 · Browser Security Warning
 
-A user connects to a network that should not automatically be considered trustworthy.
+One of the most important lessons demonstrated in the awareness scenario is the importance of paying attention to browser security indicators.
 
-The controlled demonstration illustrates how unsafe network conditions can create deceptive browsing experiences and why users should remain alert when accessing websites through public or untrusted networks.
+<p align="center">
+
+<img
+  src="./assets/browser-security-warning.png"
+  width="100%"
+  alt="Browser Security Warning Awareness Example"
+/>
+
+</p>
+
+### Key Warning Sign
 
 <div align="center">
 
-### UNTRUSTED NETWORK
-
-↓
-
-### SUSPICIOUS NETWORK ACTIVITY
-
-↓
-
-### DECEPTIVE BROWSING EXPERIENCE
-
-↓
-
-### INFORMATION / CREDENTIAL RISK
-
-↓
-
-### USER AWARENESS
+## ⚠ NOT SECURE
 
 </div>
+
+A browser displaying **Not Secure** should immediately increase user caution, particularly before entering usernames, passwords, financial information, or other sensitive data.
+
+### Users Should Stop and Check
+
+✓ Is the website address correct?  
+✓ Is the connection protected by HTTPS?  
+✓ Was there an unexpected redirect?  
+✓ Does the login page look different than expected?  
+✓ Is the current network trustworthy?  
+✓ Is sensitive activity necessary on this network?
+
+<br>
+
+> **Security Awareness Principle**  
+> A familiar-looking page should never be the only reason a user trusts a website. The domain, secure connection, browser warnings, and context should also be verified.
 
 <br>
 
 ---
 
-# What the Demonstration Teaches
+## Why the Demonstration Is Sanitized
 
-<table>
+This public portfolio intentionally does not reproduce all details from the original controlled training environment.
 
-<tr>
+The visual material has been sanitized to avoid unnecessarily exposing:
 
-<td width="50%" valign="top">
+- Target-specific identifiers
+- Real service branding where inappropriate
+- Network addressing details
+- Reusable configuration information
+- Credentials or personal information
+- Operational attack instructions
 
-### Network Awareness
+The objective of this case study is to demonstrate **cybersecurity awareness, risk communication, and preventive education**.
 
-Users should not assume that a network is trustworthy simply because it provides internet access.
+<br>
 
-**Awareness Points**
-
-✓ Public WiFi may be untrusted  
-✓ Automatic connection can introduce risk  
-✓ Network activity may not always be visible to users  
-✓ Sensitive activity
+---
